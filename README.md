@@ -1,3 +1,3 @@
 # study
-study android studio
+studying android studio
 
